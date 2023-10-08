@@ -1,0 +1,14 @@
+NEW PROJECT GIT COMMANDS
+    - "make sure to create repo on github.com"
+    - "cd into project in terminal"
+
+    - git init
+    - git remote add origin GITLINK   (copy from new repo page)
+    - git branch -M main
+
+
+
+ADDING/UPDATE FILES TO REPO 
+    git add .
+    git commit -m "COMMENT FOR THE UPLOAD"
+    git push origin main
