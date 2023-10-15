@@ -14,4 +14,4 @@ This is a repository for game developers only.
 # Game Ideas
 - Racing game
 - Country Tycoon
-- 
+- ...
