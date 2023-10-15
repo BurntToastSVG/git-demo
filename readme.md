@@ -2,12 +2,16 @@ This is a repository for game developers only.
 
 
 
-# Hello 
+# PLAN 
+- get good at `Unity` and `Unreal Engine`
+- Need to learn C#  and C++
+- Develop the games
 
-## World
 
-### how
 
-#### are 
 
-##### you
+
+# Game Ideas
+- Racing game
+- Country Tycoon
+- 
